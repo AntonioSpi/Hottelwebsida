@@ -1,0 +1,17 @@
+body{
+    background-color: lavenderblush;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color:magenta;
+}
+
+a:hover{
+    color:rgb(132, 0, 132);
+    text-decoration:underline;
+}

@@ -1,0 +1,195 @@
+/* Viewport */
+.ViewPort {
+    position: absolute;
+    width: 1000px;
+    height: 700px;
+
+    background: #CBCBCB;
+}
+
+
+
+/* Information */
+.Information {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 950px;
+    height: 60px;
+
+    background: #2C2C2C;
+    border-radius: 30px;
+}
+
+/* Left aritcle */
+.left-article {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 950px;
+    height: 333px;
+
+    background: #AFAFAF;
+    border-radius: 30px;
+}
+
+/* Navigation */
+.Navigation {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 950px;
+    height: 75px;
+
+    background: #2C2C2C;
+    border-radius: 30px;
+}
+
+/* Header */
+header {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1000px;
+    height: 150px;
+
+    background: #FFFFFF;
+}
+
+/* Upplev en värld av lyx på Grand Hotell. */
+.Upplev {
+    position: absolute;
+    width: 739px;
+    height: 61px;
+
+    font-family: 'Cormorant Infant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 56px;
+
+    color: #968D57;
+}
+
+
+/* Start */
+.Start {
+    position: absolute;
+    width: 75px;
+    height: 50px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #CBCBCB;
+}
+
+
+/* Boka */
+.Boka {
+    position: absolute;
+    width: 75px;
+    height: 50px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #CBCBCB;
+}
+
+
+/* Hitta */
+.Hitta {
+    position: absolute;
+    width: 80px;
+    height: 50px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #CBCBCB;
+}
+
+
+/* Kontakta oss */
+.Kontakta {
+    position: absolute;
+    width: 188px;
+    height: 50px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #CBCBCB;
+}
+
+
+/* Välkommna */
+.Välkommna {
+    position: absolute;
+    width: 175px;
+    height: 39px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    color: #1E1E1E;
+}
+
+
+/* Grand Hotel | Gustav Adolfs torg 49 | 211 39 Malmö | Tel : 040-664 48 70 */
+.GrandHottel {
+    position: absolute;
+    width: 832px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #CBCBCB;
+}
+
+
+/* image 2 */
+.Img2 {
+    position: absolute;
+    width: 210px;
+    height: 77px;
+
+    background: url(image.png);
+}
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. */
+.Lorem {
+    position: absolute;
+    width: 904px;
+    height: 224px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
